@@ -1,5 +1,5 @@
 .cajaSlidefijo {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/panoramica.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/panoramica.jpg);
   height: 10em;
   width: 100%;
   background-size: cover;
@@ -22,7 +22,7 @@
     display: none; }
 
 .cajaSlidefijo {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/panoramica.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/panoramica.jpg);
   height: 10em;
   width: 100%;
   background-size: cover;
@@ -230,3 +230,6 @@ footer {
   background-color: #135fcc;
   margin: 0;
   height: 100%; }
+
+.cajaSlidefijo {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/panoramica.jpg); }
