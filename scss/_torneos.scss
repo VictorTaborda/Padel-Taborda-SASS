@@ -1,0 +1,16 @@
+.cajaSlidefijo{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/panoramica.jpg);
+    height: 10em;
+    width: 100%;
+    background-size: cover;
+    align-items: center;
+    background-position: center;
+    h2{
+        color: $color-invertidos;
+    font-size: 3em;
+    letter-spacing: .1em
+    }
+}
+.torneosTabla{
+    margin: 30px;
+}
