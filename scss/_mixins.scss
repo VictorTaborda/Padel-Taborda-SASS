@@ -1,0 +1,13 @@
+@mixin position ($display, $flex-direction, $justify-content, $align-items,) {
+    display:$display;
+    flex-direction: $flex-direction;
+    justify-content: $justify-content;
+    align-items: $align-items;
+    
+}
+
+@mixin sizes($width,$height) {
+    width: $width;
+    height: $height;
+
+}
